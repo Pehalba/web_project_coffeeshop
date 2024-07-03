@@ -33,9 +33,6 @@ body {
   line-height: 20px;
 }
 
-.font-noto {
-  font-family: 'Noto Serif', 'Times New Roman', serif;
-}
 
 /**
  * Renderize o elemento `main` de forma consistente no IE.
