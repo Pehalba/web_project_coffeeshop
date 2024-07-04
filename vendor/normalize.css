@@ -33,10 +33,6 @@ body {
   line-height: 20px;
 }
 
-.page {
-
-}
-
 /**
  * Renderize o elemento `main` de forma consistente no IE.
  */
